@@ -26,4 +26,4 @@ ministrado por: Acauan Ribeiro
 
    - Solução: A abordagem usada envolve os eventos do navegador para controlar o comportamento do usuário e atualiza os estados relevantes para refletir a situação atual do quiz.
 
-## Para iniciar o projeto basta usar: **npm run dev** no terminal
+## Para iniciar o projeto basta usar: npm install -> npx prisma generate -> npm run dev no terminal
