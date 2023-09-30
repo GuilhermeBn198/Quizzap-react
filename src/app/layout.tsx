@@ -5,8 +5,6 @@ import { Inter } from 'next/font/google'
 import Link from 'next/link'
 import { GlobalContextProvider } from '@/context/main'
 
-
-
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
